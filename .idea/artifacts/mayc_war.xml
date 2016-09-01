@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mayc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mayc.war">
+      <element id="artifact" artifact-name="mayc:war exploded" />
+    </root>
+  </artifact>
+</component>
